@@ -1,6 +1,8 @@
+deepspace/SuppliesPackage.class
+deepspace/Loot.class
 deepspace/TestP1.class
+deepspace/Dice.class
 deepspace/WeaponType.class
 deepspace/ShieldBooster.class
-deepspace/SuppliesPackage.class
+deepspace/GameCharacter.class
 deepspace/Weapon.class
-deepspace/Loot.class

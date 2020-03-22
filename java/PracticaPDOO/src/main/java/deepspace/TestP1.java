@@ -77,7 +77,7 @@ public class TestP1 {
                 shieldcount++;
             if (dado.firstShot() == GameCharacter.SPACESTATION)
                 shotcount++;
-            if (dado.SpaceStationMoves(0.5) == true)
+            if (dado.spaceStationMoves(0.5f) == true)
                 movecount++;
         }
         
